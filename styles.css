@@ -1,0 +1,36 @@
+/* body {
+    background: red;
+} */
+body {
+    margin: 0px;
+}
+
+header {
+    background: yellowgreen; border: 10px solid black;
+}
+
+h1 {
+    text-align: center;
+}
+
+nav ul li{
+    list-style: none;
+    /* display: flex; */
+    display: inline;
+}
+
+img {
+    width: 300px;
+}
+
+#intro {
+    background: rgb(93, 192, 93);
+}
+
+.section-header{
+    color: rgb(255, 0, 13);
+}
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
