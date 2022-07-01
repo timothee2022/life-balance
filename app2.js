@@ -16,5 +16,10 @@ function askBook(){
 };
 
 
-
+function showBook(){
+    const userNum = prompt("How many times do you read book a day?");
+    for(let i = 0; i < userNum; i++){
+        document.write("<img src='embarrassing.jpeg' style='width:300px;'/>")
+    }
+};
 
